@@ -1,4 +1,4 @@
-# Quinoah
+# Quinoah Hub
 Best ScriptHub for shitty simulators on roblox.
 
 # Supported Games
